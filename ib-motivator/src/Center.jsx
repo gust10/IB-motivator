@@ -24,30 +24,44 @@ function Center() {
     assignments: {
       Math: [
         {
-          name: 'Algebra Homework',
+          name: 'Math IA',
           subject: 'Math',
           progress: 0,
-          description: 'Complete the algebra problems in the workbook.',
+          description: '',
           deadline: new Date('2025-03-15').toISOString(),
         },
         {
-          name: 'Geometry Project',
+          name: 'Physics IA',
           subject: 'Math',
           progress: 0,
-          description: 'Create a geometry model.',
+          description: '',
           deadline: new Date('2025-03-15').toISOString(),
         },
       ],
       Science: [
         {
-          name: 'Physics Lab',
+          name: 'Music IA',
           subject: 'Science',
           progress: 0,
           description: 'Conduct experiments and document results.',
           deadline: new Date('2025-03-15').toISOString(),
         },
         {
-          name: 'Chemistry Assignment',
+          name: 'Geography IA',
+          subject: 'Science',
+          progress: 0,
+          description: 'Write a report on chemical reactions.',
+          deadline: new Date('2025-03-15').toISOString(),
+        },
+        {
+          name: 'LanguageA IA',
+          subject: 'Science',
+          progress: 0,
+          description: 'Write a report on chemical reactions.',
+          deadline: new Date('2025-03-15').toISOString(),
+        },
+        {
+          name: 'LanguageB IA',
           subject: 'Science',
           progress: 0,
           description: 'Write a report on chemical reactions.',

@@ -11,7 +11,7 @@
 - **Mobile Responsive:** Use it on the go with a mobile-friendly interface.
 
 ## Demo 🎥
-Check out the [live demo]([https://example.com](https://ib-motivator.vercel.app/)) of the app (coming soon)!
+Check out the [live demo]([https://ib-motivator.vercel.app/]) of the app (coming soon)!
 
 ## Installation 🛠️
 Follow these steps to install and run the IB-motivator locally on your machine:
